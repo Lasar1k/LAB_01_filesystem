@@ -31,3 +31,4 @@ class Searcher {
 };
 
 #endif  // INCLUDE_SEARCHER_HPP_
+
